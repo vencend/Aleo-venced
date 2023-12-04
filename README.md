@@ -4,15 +4,11 @@
 
 A standard game of Tic-Tac-Toe in Leo.
 
-⭕ ❕ ⭕ ❕ ❌
+------------------------------------------------
 
-➖ ➕ ➖ ➕ ➖
+---------------------------------------
 
-⭕ ❕ ⁣❌ ❕ ⭕
-
-➖ ➕ ➖ ➕ ➖
-
-❌ ❕ ❌ ❕ ⭕
+----------------------------
 
 ## Representing State
 Leo allows users to define composite data types with the `struct` keyword. 
